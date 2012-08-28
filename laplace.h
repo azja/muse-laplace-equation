@@ -1,3 +1,4 @@
+#pragma once
 /*! \file  laplace.h 
     \brief This file contains template method: 2d  Laplace equation solver engine for  NVidia CUDA supported device
     
