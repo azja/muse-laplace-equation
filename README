@@ -1,0 +1,7 @@
+//////////////////////////////////////////////
+//Part of muSe libraries by azja&eaglenature//
+//////////////////////////////////////////////
+laplace.h contains museCudaLaplace template 
+function fr solving 2-D Laplace equation with 
+given bonduarey condition on NVidia CUDA supported
+device. Therefore it is CUDA sdk dependent (tested for 4.1)
