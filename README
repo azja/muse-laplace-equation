@@ -3,5 +3,5 @@
 //////////////////////////////////////////////
 laplace.h contains museCudaLaplace template 
 function for solving 2-D Laplace equation with 
-given bonduarey condition on NVidia CUDA supported
+the given bonduary conditions on NVidia CUDA supported
 device. Therefore it is CUDA sdk dependent (tested for 4.1)
